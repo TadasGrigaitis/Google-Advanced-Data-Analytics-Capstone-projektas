@@ -1,5 +1,5 @@
 # Google-Advanced-Data-Analytics-Capstone-projektas
-Project Overview
+Apžvalga
 
 A project overview should be a few sentences long stating the problem you solved, what data was used in the project, and your modeling results. 
 
