@@ -1,7 +1,7 @@
 # Google-Advanced-Data-Analytics-Capstone-projektas
 Apžvalga
 
-A project overview should be a few sentences long stating the problem you solved, what data was used in the project, and your modeling results. 
+Projekto tikslas - naudojant žmogiškųjų išteklių departamento duomenis, sudaryti regresijos modelį, pagal kurį būtų galima prognozuoti, ar darbuotojas paliks įmonę, ar ne.
 
 Business Understanding 
 
