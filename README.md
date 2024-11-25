@@ -7,16 +7,18 @@ Aktualumas
 
 Tiriamosios duomenų analyzės metu ir regresijos modelio pagalba gautomis įžvalgomis įmonė galėtų suprasti kodėl darbuotojai palieka darbo vietas.
 
-Data Understanding 
+Duomenys
 
-Google Advanced Data Analytics autoriai pateikė Salifort Motors įmonės 10 metų laikotarpio žmogiškųjų išteklių departamento duomenis.
-![image](https://github.com/user-attachments/assets/d750251e-13c5-4399-a9c5-52ca7290cafb)
+Google Advanced Data Analytics autoriai pateikė Salifort Motors įmonės 10 metų laikotarpio žmogiškųjų išteklių departamento duomenis. Žemiau pateikiama viena iš projekto vizualizacijų -darbuotojų išėjimo iš ir pasilikimo įmonėje histograma, išskirstyta pagal departamentą.
+![image](https://github.com/user-attachments/assets/4ce59387-d73b-4664-a513-4028354e1520)
 
+Modelis 
 
-Modeling and Evaluation 
+Modelio rezultatams vizualiai įvertinti naudojau painiavos matricą(angl. confusion matrix).  
+![image](https://github.com/user-attachments/assets/ad3c9897-6657-43ce-b92e-bb70c23d164c)
+Statistikos indikuoja visai neblogus rezultatus, tačiau jei svarbiausia prognozuoti iš darbo išeinančius darbuotojus, tuomet įverčiai yra gerokai mažesni. 
+![image](https://github.com/user-attachments/assets/282f788b-5c01-40ef-aecf-bc722a741a32)
 
-This section should detail what models you used and the corresponding evaluation metrics. 
+Išvada
 
-Conclusion
-
-In the conclusion section explain the recommendations you have in solving the business problem and highlight any future steps you will take to expand on your project, 
+Projektas atskleidžia praktinį duomenų analizės pritaikymą, siekiant spręsti aktualią personalo valdymo problemą – darbuotojų išlaikymą. Logistinės regresijos modelis su pasiektais tikslumo rodikliais (precision 79 %, recall 82 %, f1 rodiklis 80 %) rodo pakankamai gerą prognozių kokybę ir gali būti vertingas įrankis verslo sprendimuose.
