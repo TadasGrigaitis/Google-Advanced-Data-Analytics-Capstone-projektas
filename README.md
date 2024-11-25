@@ -23,7 +23,7 @@ Modelio rezultatams vizualiai įvertinti naudojau painiavos matricą(angl. confu
 
 Statistikos indikuoja visai neblogus rezultatus, tačiau jei svarbiausia prognozuoti iš darbo išeinančius darbuotojus, tuomet įverčiai yra gerokai mažesni.
 <p align="center">
-<img src ="https://github.com/user-attachments/assets/282f788b-5c01-40ef-aecf-bc722a741a32" width="400" height="200">
+<img src ="https://github.com/user-attachments/assets/282f788b-5c01-40ef-aecf-bc722a741a32" width="350" height="150">
 </p>
 
 Išvada
