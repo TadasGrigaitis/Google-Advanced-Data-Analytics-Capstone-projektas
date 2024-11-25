@@ -10,7 +10,7 @@ Tiriamosios duomenų analyzės metu ir regresijos modelio pagalba gautomis įžv
 Duomenys
 
 Google Advanced Data Analytics autoriai pateikė Salifort Motors įmonės 10 metų laikotarpio žmogiškųjų išteklių departamento duomenis. Žemiau pateikiama viena iš projekto vizualizacijų -darbuotojų išėjimo iš ir pasilikimo įmonėje histograma, išskirstyta pagal departamentą.
-![image](https://github.com/user-attachments/assets/3827b8bf-b053-44d9-8bee-56d2dbbbe8e4)
+<img src ="https://github.com/user-attachments/assets/3827b8bf-b053-44d9-8bee-56d2dbbbe8e4"  width="100" height="100">
 
 
 Modelis 
