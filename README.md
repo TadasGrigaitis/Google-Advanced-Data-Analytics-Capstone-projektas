@@ -18,12 +18,12 @@ Modelis
 
 Modelio rezultatams vizualiai įvertinti naudojau painiavos matricą(angl. confusion matrix).
 <p align="center">
-<img src ="https://github.com/user-attachments/assets/1c70dec8-b8c2-417e-917f-00bd63c878f7" width="400" height="400">
+<img src ="https://github.com/user-attachments/assets/1c70dec8-b8c2-417e-917f-00bd63c878f7" width="300" height="300">
 </p>
 
 Statistikos indikuoja visai neblogus rezultatus, tačiau jei svarbiausia prognozuoti iš darbo išeinančius darbuotojus, tuomet įverčiai yra gerokai mažesni.
 <p align="center">
-<img src ="https://github.com/user-attachments/assets/282f788b-5c01-40ef-aecf-bc722a741a32" width="400" height="400">
+<img src ="https://github.com/user-attachments/assets/282f788b-5c01-40ef-aecf-bc722a741a32" width="400" height="200">
 </p>
 
 Išvada
