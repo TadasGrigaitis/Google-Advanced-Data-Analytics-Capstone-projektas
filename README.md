@@ -16,12 +16,12 @@ Google Advanced Data Analytics autoriai pateikė Salifort Motors įmonės 10 met
 
 Modelis 
 
-Modelio rezultatams vizualiai įvertinti naudojau painiavos matricą(angl. confusion matrix).
+Modelio rezultatams vizualiai įvertinti naudojau painiavos matricą (angl. confusion matrix). Ji pavaizduota žemiau:
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/1c70dec8-b8c2-417e-917f-00bd63c878f7" width="300" height="300">
 </p>
 
-Statistikos indikuoja visai neblogus rezultatus, tačiau jei svarbiausia prognozuoti iš darbo išeinančius darbuotojus, tuomet įverčiai yra gerokai mažesni.
+Statistikos indikuoja visai neblogus rezultatus, tačiau jei svarbiausia prognozuoti iš darbo išeinančius darbuotojus, tuomet įverčiai yra gerokai mažesni. Žemiau galite matyti regresijos modelio statistikas:
 <p align="center">
 <img src ="https://github.com/user-attachments/assets/282f788b-5c01-40ef-aecf-bc722a741a32" width="350" height="150">
 </p>
