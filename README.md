@@ -1,15 +1,17 @@
 # Google-Advanced-Data-Analytics-Capstone-projektas
 Apžvalga
 
-Projekto tikslas - naudojant žmogiškųjų išteklių departamento duomenis, sudaryti regresijos modelį, pagal kurį būtų galima prognozuoti, ar darbuotojas paliks įmonę, ar ne.
+Projekto tikslas - naudojant žmogiškųjų išteklių departamento duomenis, sudaryti regresijos modelį, pagal kurį būtų galima prognozuoti, ar darbuotojas paliks įmonę, ar ne. Naudojant python programavimo kalbą, sudariau logistinės regresijos modelį, kuris pasižymėjo šiomis prognozių statistikomis: precision 79 %, recall - 82 %, f1 rodiklis - 80 %. 
 
-Business Understanding 
+Aktualumas 
 
-You should have a section that showcases the stakeholder(s) and the business problem you tried to solve. Feel free to add citations of research you did on your business problem here as well. 
+Tiriamosios duomenų analyzės metu ir regresijos modelio pagalba gautomis įžvalgomis įmonė galėtų suprasti kodėl darbuotojai palieka darbo vietas.
 
 Data Understanding 
 
-Explain what data you used in your analysis, the timeframe of the data, and any data limitations. This is also a good section to add visualizations of your exploratory data analysis. 
+Google Advanced Data Analytics autoriai pateikė Salifort Motors įmonės 10 metų laikotarpio žmogiškųjų išteklių departamento duomenis.
+![image](https://github.com/user-attachments/assets/d750251e-13c5-4399-a9c5-52ca7290cafb)
+
 
 Modeling and Evaluation 
 
