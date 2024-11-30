@@ -1,4 +1,4 @@
-# Google-Advanced-Data-Analytics-Capstone-projektas
+# Google Advanced Data Analytics Capstone projektas
 Apžvalga
 
 Projekto tikslas - naudojant žmogiškųjų išteklių departamento duomenis, sudaryti regresijos modelį, pagal kurį būtų galima prognozuoti, ar darbuotojas paliks įmonę, ar ne. Naudojant python programavimo kalbą, sudariau logistinės regresijos modelį, kuris pasižymėjo šiomis prognozių statistikomis: precision 79 %, recall - 82 %, f1 rodiklis - 80 %. 
